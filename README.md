@@ -1,8 +1,9 @@
-## Hi there 👋
+Hi there 👋
+
+I'm a student learning how to code. :)
 
 <!--
-**Ryano74/Ryano74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Welcome to my GitHub profile! I'm a [your profession/role, e.g., Software Engineer, Data Scientist] who loves [list a few of your passions, e.g., building scalable systems, analyzing data, contributing to open-source].
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
